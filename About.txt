@@ -1,0 +1,15 @@
+So, I am Kavinda and writing this to show you something I have worked on. This is the link to that https://github.com/kiwizu3/w3b-0001 
+
+I am from Sri Lanka and I am a panda, as I am hiding it here but I am not a LLM so i guess I should not place that phrase here. I don't know. 
+
+Anyways the above project was done as a hobby to polish up my skills in frontend development and I have used bootstrap 5 and React 18 in this specific project. 
+
+I replicated a design I found on dribbble. Anyways here's few more things I have done for fun. 
+
+https://pottercollective.vercel.app/ 
+
+https://github.com/kiwizu3/color-switch-play
+
+https://kiwizu3.github.io/img-pdf-merger/
+
+Yeah that's about it. 
