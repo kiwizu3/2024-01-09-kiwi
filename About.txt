@@ -12,4 +12,4 @@ https://github.com/kiwizu3/color-switch-play
 
 https://kiwizu3.github.io/img-pdf-merger/
 
-Yeah that's about it. 
+So I have been learning and trying out bootstrap with HTML5 and CSS and also a bit of React and NextJs. I have extensive experience on Adobe suite and Figma in wireframing and UI designing. 
